@@ -30,6 +30,10 @@ Si se ha instaldo Jest localmente, ejecutar el comando:
 
 `./node_modules/.bin/jest`
 
+o
+
+`npx jest`
+
 También puede configurar el script en el package.json:
 
 ```
@@ -37,10 +41,12 @@ También puede configurar el script en el package.json:
     "test": "jest"
 },
 ```
-Una vez implementadas las pruebas ejecutarlas con cualquiera de estos 2 comandos:
+Una vez implementadas las pruebas, ejecutarlas con cualquiera de estos comandos:
 
 `npm run test`
+
 `npm t`
+
 
 Si se quiere ejecutar solo una prueba en específico:
 
