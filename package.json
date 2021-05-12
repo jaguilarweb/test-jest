@@ -1,0 +1,23 @@
+{
+  "name": "test-jest",
+  "version": "1.0.0",
+  "description": "First unit test with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "pruebas",
+    "unitarias",
+    "test"
+  ],
+  "author": "jaguilarweb <contact@jaguilarweb.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.1",
+    "babel-jest": "^26.6.3",
+    "babel-polyfill": "^6.26.0",
+    "jest": "^26.6.3"
+  }
+}
