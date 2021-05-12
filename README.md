@@ -45,7 +45,6 @@ Una vez implementadas las pruebas ejecutarlas con cualquiera de estos 2 comandos
 Si se quiere ejecutar solo una prueba en específico:
 
 `jest <nombre-de-la-prueba>`
-`npm run test -- <nombre-de-la-prueba>`
 
 ## Autor
 
