@@ -52,6 +52,16 @@ Si se quiere ejecutar solo una prueba en específico:
 
 `jest <nombre-de-la-prueba>`
 
+## Reporte de pruebas
+
+Para obtener un reporte que identifique los bloques de código sobre los cuáles se han realizado pruebas y sobre cuáles no, se ha configurado la caracteristica coverange. 
+Para consultarla ejecutar este comando:
+
+`npm run test:coverage`
+
+Adicional a la información que se muestra por la terminal, se crea una carpeta en la raíz del proyecto llamada "coverage", dentro de ella se puede acceder a un archivo index.html que mostrará un reporte.
+
+
 ## Autor
 
 La adaptación de los ejercicios y la documentación está realizada por Jenny Aguilar (jaguilarweb) :+1:
