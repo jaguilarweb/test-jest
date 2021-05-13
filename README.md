@@ -11,12 +11,19 @@ En este proyecto exploramos el desarrollo de pruebas unitarias con el framework 
 
 Requiere tener instalado Nodejs y NPM.
 
-Instalación de Jest:
+Instalación de Jest y Babel (principales):
 
 ```
 npm install --save-dev jest
 npm install --save-dev babel-jest babel-polyfill @babel/preset-env
 ```
+
+Otras dependencias
+
+```
+npm install --save axios
+```
+
 
 ## Ejecución de las pruebas
 
