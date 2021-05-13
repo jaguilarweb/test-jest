@@ -15,4 +15,4 @@ describe('Comparadores comunes', () => {
     expect(user).not.toEqual(user2);
   });
 
-})
+});
